@@ -1,0 +1,12 @@
+names:
+- plastic
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: plasticdetectioninrivers
+  url: https://universe.roboflow.com/plasticdetection-kr0gi/plasticdetectioninrivers/dataset/3
+  version: 3
+  workspace: plasticdetection-kr0gi
+test: /Users/damodargupta/Desktop/projects/PlasticDetectionInRivers/plasticDetectionInRivers-3/test
+train: /Users/damodargupta/Desktop/projects/PlasticDetectionInRivers/plasticDetectionInRivers-3/train
+val: /Users/damodargupta/Desktop/projects/PlasticDetectionInRivers/plasticDetectionInRivers-3/valid
