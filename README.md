@@ -35,15 +35,19 @@ The model for plastic detection in rivers has been trained using Roboflow, a pow
 
 Below are some screenshots captured during the model training process:
 
-- [Screenshot 1]<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/257b7a76-8d4c-46df-9501-716dbbd4e202">
+- [dataset details] <img width="722" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/901c9101-4e1a-4f60-9c29-6b51f83b977c">
 
-- [Screenshot 2] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/cdecd3fe-f478-4d79-b482-795d5461ce24">
 
-- [Screenshot 3] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/bfe2cbe4-fc32-4f42-ad0b-c6715a0d7551">
+- [model training] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/257b7a76-8d4c-46df-9501-716dbbd4e202">
 
-- [Screenshot 4] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/3422faf6-6315-4299-b185-bf6aee9c7163">
+- [results after training] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/cdecd3fe-f478-4d79-b482-795d5461ce24">
 
-- [Annotations] <img width="1280" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/6d844f6b-9f5e-4e31-942c-0948c7a509e8">
+- [predictions] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/bfe2cbe4-fc32-4f42-ad0b-c6715a0d7551">
+
+- [training graphs] <img width="722" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/67afc012-712f-4e56-9336-c9d52a3853ae">
+<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/3422faf6-6315-4299-b185-bf6aee9c7163">
+
+- [Annotations - defining ground truths] <img width="1280" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/6d844f6b-9f5e-4e31-942c-0948c7a509e8">
 
 
 ## Making Predictions
