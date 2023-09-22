@@ -55,7 +55,7 @@ Below are some screenshots captured during the model training process:
 
 <img width="722" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/67afc012-712f-4e56-9336-c9d52a3853ae">
 
-<img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/3422faf6-6315-4299-b185-bf6aee9c7163">
+<img width="722" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/3946f2a4-afcf-468a-a67d-9d08773a6f6d">
 
 - [Annotations - defining ground truths]
 
