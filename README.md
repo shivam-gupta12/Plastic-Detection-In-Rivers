@@ -31,7 +31,7 @@ The model for plastic detection in rivers has been trained using Roboflow, a pow
 5. **Run the Code:** In this repository, you will find code that uses the Roboflow API to load the pre-trained model. Make sure to input your API key in the code, and you can then run it to make predictions.
 6. I have also written the code if you want to train your model on local machine and not on roboflow. 
 
-## Model Training Screenshots
+## Screenshots
 
 Below are some screenshots captured during the model training process:
 
@@ -43,6 +43,7 @@ Below are some screenshots captured during the model training process:
 
 - [Screenshot 4] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/3422faf6-6315-4299-b185-bf6aee9c7163">
 
+- [Annotations] ![Uploading image.png…]()
 
 ## Making Predictions
 
