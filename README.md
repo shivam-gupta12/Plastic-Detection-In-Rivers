@@ -43,7 +43,8 @@ Below are some screenshots captured during the model training process:
 
 - [Screenshot 4] <img width="1097" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/3422faf6-6315-4299-b185-bf6aee9c7163">
 
-- [Annotations] ![Uploading image.png…]()
+- [Annotations] <img width="1280" alt="image" src="https://github.com/shivam-gupta12/Plastic-Detection-In-Rivers/assets/109721120/6d844f6b-9f5e-4e31-942c-0948c7a509e8">
+
 
 ## Making Predictions
 
